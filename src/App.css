@@ -83,3 +83,22 @@ header {
     margin-bottom: 1rem;
     display: block;
 }
+.list-btn{
+    margin : 10px;
+    text-align:center;
+}
+.list-btn button{
+    margin:5px;
+    padding:5px;
+    background : var(--primary);
+    border-radius:8px;
+    color:white;
+    font-size:15px;
+    font-weight:bold;
+}
+
+.list-btn button:hover{
+    transform: translate(-4px, -4px);
+    box-shadow: 12px 12px 0px #000;
+    cursor:pointer;
+}
