@@ -1,4 +1,4 @@
-Mini Projet Blog
+Mini Projet Blog :
 Application de blog réalisée avec React et Vite dans le cadre de ma formation à la 3W Academy.
 Fonctionnalités
 
@@ -6,16 +6,16 @@ Affichage des articles du blog
 Création d'un nouvel article
 Filtre de recherche pour trouver un article par mot-clé
 
-Technologies utilisées
+Technologies utilisées :
 
-React
-Vite
-JavaScript
-CSS
+React,
+Vite,
+JavaScript,
+CSS.
+____________________________________________________________________________________________________
+#Installation
 
-Installation
-
-bash# Cloner le projet
+# Cloner le projet
 git clone https://github.com/Yazreyy/mini-projet-blog.git
 
 # Se déplacer dans le dossier
@@ -28,7 +28,7 @@ npm install
 npm run dev
 Aperçu
 
-
+___________________________________________________________________________________________________
 
 Auteur
 Marlonn Gillet - GitHub
