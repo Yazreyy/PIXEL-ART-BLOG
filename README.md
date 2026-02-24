@@ -13,22 +13,5 @@ Vite,
 JavaScript,
 CSS.
 ____________________________________________________________________________________________________
-#Installation
-
-# Cloner le projet
-git clone https://github.com/Yazreyy/mini-projet-blog.git
-
-# Se déplacer dans le dossier
-cd mini-projet-blog
-
-# Installer les dépendances
-npm install
-
-# Lancer le serveur de développement
-npm run dev
-Aperçu
-
-___________________________________________________________________________________________________
-
 Auteur
 Marlonn Gillet - GitHub
