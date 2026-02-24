@@ -12,6 +12,8 @@ React,
 Vite,
 JavaScript,
 CSS.
+
+![Aperçu du blog](git.png)
 ____________________________________________________________________________________________________
 Auteur
 Marlonn Gillet - GitHub
