@@ -1,3 +1,5 @@
+--> https://pixel-art-blog.netlify.app/ <--
+
 #  Mini Blog
 
 A blog application built with React and Vite as part of my training at 3W Academy.
